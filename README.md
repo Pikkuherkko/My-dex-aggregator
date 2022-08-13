@@ -1,5 +1,5 @@
 # My-dex-aggregator
-More of a frontend project. Dex aggregator using 0x
+More of a frontend project. I got the idea from an Alchemy tutorial (https://docs.alchemy.com/docs/9-how-to-build-a-token-swap-dapp-with-0x-api) but that shit didn't actually work and I wanted to do it in testnet, not mainnet. I learned a lot when solving problems.
 
 
 Simple dex where we can swap WETH, DAI and USDC in Ropsten network. This app uses 0x API /swap endpoints.
